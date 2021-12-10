@@ -17,3 +17,6 @@ the parking lot. When a vehicle is within the recommended weight class, the surv
 seconds to allow the vehicle to enter the parking lot which the counter will decrease by 1 which will be reflected in the 7-Segment displays and
 vice-versa at the exit. When the counter hits 0, the 7-Segment display will turn off and the survo will be disabled until a vehicle has exited the
 parking lot. 
+
+# Video Demo
+https://www.youtube.com/watch?v=y-uAowghuRc
